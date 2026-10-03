@@ -37,3 +37,13 @@ tests/   testes
 ## Autor
 
 Vinícius Santos Luz · [@vinicius-santos-luz](https://github.com/vinicius-santos-luz)
+
+## Tecnologias e ferramentas
+
+- **Estudando:** Java, C, Javascript, MySQL Serve/Workbench, PHP
+- **Experiência prévia:** redes de internet, suporte técnico, manutenção de computadores
+
+## Contato
+
+- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/vinicius-luz-7727a0255)
+- 📧 E-mail: viniciuscruzst@gmail.com
