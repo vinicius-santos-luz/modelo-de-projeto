@@ -1,0 +1,32 @@
+# --- Segredos e dados pessoais (NUNCA publicar) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials.*
+# Bancos de dados e dados locais
+*.db
+*.sqlite
+*.sqlite3
+data/
+db.json
+
+# --- Dependências ---
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# --- Builds e logs ---
+dist/
+build/
+*.log
+
+# --- Editor e sistema operacional ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
